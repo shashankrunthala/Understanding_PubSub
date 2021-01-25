@@ -11,4 +11,4 @@ Go through the following steps to setup the project on your org
 4. Deploy the code to you org: sfdx force:source:deploy -p force-app/main/default
 5. Assign the permission set to current user: sfdx force:user:permset:assign -n Understanding_PubSub_Module
 6. Open your org: sfdx force:org:open
-7. Go to Teams App from the app manager.
+7. Go to Understanding_PubSub_Module App from the app manager.
